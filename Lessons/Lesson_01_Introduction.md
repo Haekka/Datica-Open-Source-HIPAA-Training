@@ -46,4 +46,8 @@ Original material and content was created by [Datica Health, Inc,](https://datic
 
 ---
 
+External resources:
+
+---
+
 Lesson Scenario:
