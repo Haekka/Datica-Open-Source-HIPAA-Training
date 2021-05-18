@@ -11,7 +11,21 @@ Lesson Notes:
 
 Lesson Content:
 Summary of Training
-This is an overview training of HIPAA, with coverage of key definitions and provisions for the handling of HIPAA-relevant data. The material in this book is intended for individuals who work for organizations that provide technology and technology-enabled services to health systems, payers, physicians, pharma, and other healthcare organizations. It leans more heavily on the use of modern, cloud-based technologies than traditional client side software.
+This is an overview training of HIPAA, with coverage of key definitions and provisions for the handling of HIPAA-relevant data. The material in this training is intended for individuals who work for organizations that provide technology and technology-enabled services to health systems, payers, physicians, pharma, and other healthcare organizations. It leans more heavily on the use of modern, cloud-based technologies than traditional client side software.
+
+So why is HIPAA training important? The rationale is best explained by this quote from Cory Doctorow -
+
+*We should treat personal electronic data with the same care and respect as weapons-grade plutonium -- it is dangerous, long-lasting and once it has leaked, there's no getting it back.*
+
+The goal of this training is to ensure that you understand the importance (and ways) of protecting sensitive data and apply it regularly both at your work and in your personal life.
+
+Original material and content was created by [Datica Health, Inc,](https://datica.com) and is released as open source.
+
+---
+
+External resources:
+Summary of Training
+This is an overview training of HIPAA, with coverage of key definitions and provisions for the handling of HIPAA-relevant data. The material in this training is intended for individuals who work for organizations that provide technology and technology-enabled services to health systems, payers, physicians, pharma, and other healthcare organizations. It leans more heavily on the use of modern, cloud-based technologies than traditional client side software.
 
 The training covers the following topics:
 
@@ -41,10 +55,6 @@ The goal of this training is to ensure that you understand the importance (and w
 So please - take the time to read through this carefully.
 
 Original material and content was created by [Datica Health, Inc,](https://datica.com) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@datica.com](mailto:training@datica.com) with any questions or problems accessing the training.
-
----
-
-External resources:
 
 ---
 
