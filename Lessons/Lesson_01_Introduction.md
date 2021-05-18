@@ -1,11 +1,16 @@
-#Introduction to HIPAA Training
+Title:
+Lesson 1| Introduction to HIPAA Training
 
-* **Intended Audience**: All workforce members
-* **Intended Frequency**: Upon employee onboarding and annually
+---
 
-**********************
+Lesson Notes:
+:dart: Intended Audience: All workforce members
+:dart: Intended Frequency: Upon employee onboarding and annually
 
-##Summary of Training
+---
+
+Lesson Content:
+Summary of Training
 This is an overview training of HIPAA, with coverage of key definitions and provisions for the handling of HIPAA-relevant data. The material in this book is intended for individuals who work for organizations that provide technology and technology-enabled services to health systems, payers, physicians, pharma, and other healthcare organizations. It leans more heavily on the use of modern, cloud-based technologies than traditional client side software.
 
 The training covers the following topics:
@@ -22,9 +27,7 @@ The training covers the following topics:
 	* What are the sanctions for knowingly violating HIPAA;
 * How does Datica address compliance.
 
-*********************
 We are in the business of providing compliant infrastructure to our customers so that they do not have to worry about the nuances of devOps and scaling and managing infrastructure - all they have to worry about is their application - its capabilities and its security and their own internal policies. We take care of everything else.
-
 
 So why is HIPAA training important? The rationale is best explained by this quote from Cory Doctorow -
 
@@ -39,7 +42,8 @@ The goal of this training is to ensure that you understand the importance (and w
 
 So please - take the time to read through this carefully.
 
-
-*********************
-
 Original material and content was created by [Datica Health, Inc,](https://datica.com) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@datica.com](mailto:training@datica.com) with any questions or problems accessing the training.
+
+---
+
+Lesson Scenario:

@@ -17,20 +17,21 @@
   - Lesson 15 | All About PHI
   - Lesson 16 | Elements of PII
   - Lesson 17 | Deidentify
-  - Lesson 18 | What Does It Mean For You
-  - Lesson 19 | Definitions of Breach
-  - Lesson 20 | Notifications
-  - Lesson 21 | Expectations vs Reality
-  - Lesson 22 | Penalties
-  - Lesson 23 | Breach Policy
-  - Lesson 24 | What Does it Mean For You
-  - Lesson 25 | Business Associate Agreements
-  - Lesson 26 | Your HIPAA Responsibilities
-  - Lesson 27 | Key Contracts and Roles
-  - Lesson 28 | System Access
-  - Lesson 29 | Physical Access
-  - Lesson 30 | Incident Management
-  - Lesson 31 | Downloading PHI Data Locally
-  - Lesson 32 | Sanctions
-  - Lesson 33 | Further Reading
-  - Lesson 34 | HIPAA Rules
+  - Lesson 18 | What Does it Mean For You
+  - Lesson 19 | HIPAA Breaches
+  - Lesson 20 | Definitions of Breach
+  - Lesson 21 | Notifications
+  - Lesson 22 | Expectations vs Reality
+  - Lesson 23 | Penalties
+  - Lesson 24 | Breach Policy
+  - Lesson 25 | Preventing Breaches
+  - Lesson 26 | Business Associate Agreements
+  - Lesson 27 | Your HIPAA Responsibilities
+  - Lesson 28 | Key Contracts and Roles
+  - Lesson 29 | System Access
+  - Lesson 30 | Physical Access
+  - Lesson 31 | Incident Management
+  - Lesson 32 | Downloading PHI Data Locally
+  - Lesson 33 | Sanctions
+  - Lesson 34 | Further Reading
+  - Lesson 35 | HIPAA Rules
