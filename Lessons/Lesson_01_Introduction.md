@@ -59,3 +59,14 @@ Original material and content was created by [Datica Health, Inc,](https://datic
 ---
 
 Lesson Scenario:
+What provides the establishment of a nationwide framework for the protection of patient confidentiality, security of electronic systems and the electronic transmission of data?:
+
+- <input type="checkbox"> `HIPPA`
+- <input type="checkbox"> `HIPAA`
+- <input type="checkbox"> `HITECH`
+- <input type="checkbox"> `HIIPA`
+
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>This is the definition of HIPAA. Note: HIPAA has two A’s. HIPAA is an acronym for Health Insurance Portability and Accountability Act.
+</p></blockquote>
