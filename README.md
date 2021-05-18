@@ -1,15 +1,36 @@
-# Datica HIPAA Training Docs
+# Haekka's Fork of Datica Open Source HIPAA Training
 
-This is an overview training of HIPAA, with coverage of key definitions and provisions for the handing of HIPAA-relevant data. The material in this book is intended for individuals who work for organizations that provide technology and technology-enabled services to health systems, payers, physicians, pharma, and other healthcare organizations. It leans more heavily on the use of modern, cloud-based technologies than traditional client side software.
-
-### How to build the docs
-
-- Download this repository
-- cd `training`
-- `bundle install`
-
-*Commands*
-- `rake run` will run the site locally
-- `rake sass` will compile any changes made to `assets/css/styles.scss`
-- `rake build` will build the static site into the `build` directory
-- `rake serve_static` will create a simple HTTP server for the `build` directory
+  - Lesson 1 | Introduction
+  - Lesson 2 | HIPAA Basics
+  - Lesson 3 | Why All The Fuss About HIPAA
+  - Lesson 4 | Organization of This Training
+  - Lesson 5 | HIPAA Entities
+  - Lesson 6 | Covered Entities
+  - Lesson 7 | Business Associates
+  - Lesson 8 | Subcontractors
+  - Lesson 9 | Sections of HIPAA
+  - Lesson 10 | Privacy Rule
+  - Lesson 11 | Security Rule
+  - Lesson 12 | Administrative Simplification
+  - Lesson 13 | HITECH Omnibus
+  - Lesson 14 | Enforcement
+  - Lesson 15 | All About PHI
+  - Lesson 16 | Elements of PII
+  - Lesson 17 | Deidentify
+  - Lesson 18 | What Does It Mean For You
+  - Lesson 19 | Definitions of Breach
+  - Lesson 20 | Notifications
+  - Lesson 21 | Expectations vs Reality
+  - Lesson 22 | Penalties
+  - Lesson 23 | Breach Policy
+  - Lesson 24 | What Does it Mean For You
+  - Lesson 25 | Business Associate Agreements
+  - Lesson 26 | Your HIPAA Responsibilities
+  - Lesson 27 | Key Contracts and Roles
+  - Lesson 28 | System Access
+  - Lesson 29 | Physical Access
+  - Lesson 30 | Incident Management
+  - Lesson 31 | Downloading PHI Data Locally
+  - Lesson 32 | Sanctions
+  - Lesson 33 | Further Reading
+  - Lesson 34 | HIPAA Rules
