@@ -59,7 +59,7 @@ There are other uses and disclosures where patient authorization is not required
 - Appointment reminders – PHI may be used to contact members and patients about appointments for health care and treatment. In a Datica context, our customers might use our Messaging services to communicate this kind of information)
 - Business Associates – PHI may be used by contracted business associates to perform certain functions on a client's behalf. Business associates must sign a business associate agreement and agree to safeguard PHI. In a Datica context, we enter into BAAs with all of our clients as we provide infrastructural services to them. However, we have put guidelines and technology in place to minimize, restrict and in some cases, eliminate access to PHI. As a contractor, we may not copy, use, or disclose PHI for any purpose other than specifically allowed in our Business Associate contract. If you inadvertently access or disclose PHI in ways not allowed in your contract, the law requires you to immediately report the disclosure to your supervisor or contract manager, and your company to report the breach to our client.
 
-**If you are not sure about whether or not you can use or disclose PHI, check with your manager or the Chief Security Officer.**
+**If you are not sure about whether or not you can use or disclose PHI, check with your manager or the Chief Security Officer or Chief Privacy Officer.**
 
 ---
 
