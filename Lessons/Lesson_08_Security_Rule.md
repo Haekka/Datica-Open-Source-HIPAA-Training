@@ -1,5 +1,5 @@
 Title:
-Lesson 7 | Security Rule
+Lesson 8 | Security Rule
 ---
 
 Lesson Notes: What is the HIPAA Security Rule?
