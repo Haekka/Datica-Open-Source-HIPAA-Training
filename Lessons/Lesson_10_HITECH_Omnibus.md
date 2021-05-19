@@ -1,3 +1,25 @@
+
+Title:
+Lesson 10 | HITECH Omnibus
+---
+
+Lesson Notes: What did the 2013 HIPAA Omnibus Rule change?
+:dart: The Omnibus rule clarified definitions around breaches, updated penalties, and clarified entity types.
+
+---
+
+Lesson Content:
+
+The new HIPAA Omnibus ("omnibus" means something with several volumes or chapters) rules that went into effect on 9/23/2013, amongst other changes, created a category of entities called subcontractors.
+
+Previously HIPAA rules only defined two categories of entities - covered entities and business associates. Subcontractors are entities that business associates use to process, create, or store PHI. 
+
+The best examples of subcontractors we can think of are hosted services providers like Amazon Web Services, Datica, and Rackspace. 
+
+---
+
+External resources:
+
 The new HIPAA Omnibus ("omnibus" means something with several volumes or chapters) rules that went into effect on 9/23/2013, amongst other changes, created a category of entities called subcontractors.
 
 Previously HIPAA rules only defined two categories of entities - covered entities and business associates. Covered entities are basically providers, payers, and clearinghouses. Business associates are basically entities that work with covered entities to perform a service or services to store, transmit, and/or process PHI. The new HIPAA rules expanded the number of categories of entities by 50% with the addition of subcontractors; for those of us in health tech, we think this is a pretty big deal.
@@ -10,4 +32,25 @@ At Datica we know that subcontractors, as defined by HIPAA, have existed for a l
 
 This is a very exciting and major shift for health tech. HIPAA has finally acknowledged subcontractors and the role they play in creating, processing, and transmitting PHI. That's important for health tech to build smart, scalable, and interoperable tools. As a developer in healthcare, if you're considering acting as a business associate, or selling services to a covered entity, you need to understand if you fit into a certain entity category as defined by HIPAA.
 
-We encourage you to read the rest of the [rules](http://www.hhs.gov/news/press/2013pres/01/20130117b.html), or at least one of the commentaries that covers them in more detail, to see about the other changes that are a part of the Omnibus rule.
+We encourage you to read the rest of the [rules][1], or at least one of the commentaries that covers them in more detail, to see about the other changes that are a part of the Omnibus rule.
+
+---
+
+Lesson Scenario:
+
+What changes did the HIPAA Omnibus Rule make to HIPAA?
+
+- <input type="checkbox"> `More leniant penalties`
+- <input type="checkbox"> `Defined "subcontractor"`
+- <input type="checkbox"> `Outlawed the use of anything "cloud"`
+- <input type="checkbox"> `Made EHR data harder to get`
+
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>The Ombinus Rule clarified entity types by defining "subcontractors", which are essentially business associates of business associates.</p></blockquote>
+</div>
+
+
+
+
+[1]:	http://www.hhs.gov/news/press/2013pres/01/20130117b.html
