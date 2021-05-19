@@ -1,18 +1,40 @@
-# Preventing Breaches
 
-A breach is the unauthorized acquisition, access, use, or disclosure of PHI that compromises the privacy or security of the PHI. We are all responsible for protecting our members’ and patients’ confidential information. If a breach occurs, immediately notify your supervisor or the Chief Security Officer.
+Title:
+Lesson 12 | Preventing Breaches
+---
 
-###Do not peek
-No matter how curious you might be regarding the health of a coworker, a friend, a celebrity, or a family
-member, do not access a medical record unless you are authorized to do so.
+Lesson Notes: This lesson contains tips to help you protect PHI
+:dart: Preventing breaches is something we need to do every day.
+:dart: The tips in this lesson can be followed to help minimize the risk of a data breach at your company.
+
+---
+
+Lesson Content:
+
+A breach is the unauthorized acquisition, access, use, or disclosure of PHI that compromises the privacy or security of the PHI. We are all responsible for protecting our members’ and patients’ confidential information. If a breach occurs, immediately notify your supervisor or the responsible security or privacy party.
+
+1. Do not peak.
+2. Think Twice When You Talk About PHI
+3. Prevent Unauthorized Access to Facilities and Secure Areas
+4. Prevent Unauthorized Access to and Disclosure of Electronic PHI
+5. Provide Physical Security for Portable Computing and Storage Devices
+6. Secure PHI in E-mail and E-mail Attachments** 
+---
+
+External resources:
+
+A breach is the unauthorized acquisition, access, use, or disclosure of PHI that compromises the privacy or security of the PHI. We are all responsible for protecting our members’ and patients’ confidential information. If a breach occurs, immediately notify your supervisor or the responsible security or privacy party.
+
+**Do not peek**
+No matter how curious you might be regarding the health of a coworker, a friend, a celebrity, or a familymember, do not access a medical record unless you are authorized to do so.
 Never access or discuss a fellow employee’s PHI unless it is for purposes allowed by law and required for your job.
 
-###Think Twice When You Talk About PHI
+**Think Twice When You Talk About PHI**
 Do not discuss any PHI information at home or outside of work.
 
 Avoid discussing PHI in public areas, including talking on a cell phone where others may overhear. Lower your voice when you must share PHI in areas where others might overhear.
 
-###Prevent Unauthorized Access to Facilities and Secure Areas
+**Prevent Unauthorized Access to Facilities and Secure Areas**
 
 - Keep doors locked and restrict access to areas where sensitive information or equipment is kept. As discussed earlier, you should not have PHI on your laptops. Do not post keypad access codes.
 - Shield the key strokes when entering an access code to prevent others from seeing the code.
@@ -20,7 +42,7 @@ Avoid discussing PHI in public areas, including talking on a cell phone where ot
 - Do not allow others to “tailgate”, or follow you into a restricted area.
 - Turn in your keys and your laptop to your supervisor or HR when you leave Datica.
 
-###Prevent Unauthorized Access to and Disclosure of Electronic PHI
+**Prevent Unauthorized Access to and Disclosure of Electronic PHI**
 - Create complex passwords with a minimum of eight characters--at least one number, symbol and/or one letter. Use a mixture of capital and lower case letters. Do not use consecutive identical characters or all alphabetical groups or consecutive characters on the keyboard (e.g., aaaaaa, 111111, qwerty).
 - Do not use dictionary words (e.g., Datica, password123).
 - Do not use your individual identifiers (names, driver’s license number, social security number).
@@ -30,7 +52,7 @@ Avoid discussing PHI in public areas, including talking on a cell phone where ot
 - If you share a workstation, only use your own password and logon ID to access data. Log-off when you are finished. Never share your passwords with other users; you could be held responsible if an unauthorized person uses your logon or password to access or disclose PHI.
 - Turn your computer screen away from viewing by visitors if you work in an open area.
 
-###Provide Physical Security for Portable Computing and Storage Devices
+**Provide Physical Security for Portable Computing and Storage Devices**
 
 - Store confidential information such as PHI only on Datica’s secured network servers. Never store PHI on a laptop or other portable, endpoint device.
 - Know where your portable devices (laptop, PDA, cell phone, hand-held device, mp3 player, flash or jump drive, CD or DVD, etc.) are at all times. Never check them as baggage or leave them unattended or unsecured at home, work, or in transit.
@@ -38,13 +60,19 @@ Avoid discussing PHI in public areas, including talking on a cell phone where ot
 - If you are leaving for the day, take the laptop or other device with you or lock it in a desk or cabinet. If your device is stolen or lost, immediately report the loss to your supervisor.
 - If the lost or stolen device contained PHI—encrypted or unencrypted—you must report the loss of the data immediately to the Chief Security Officer.
 
-###Secure PHI in E-mail and E-mail Attachments
+**Secure PHI in E-mail and E-mail Attachments**
 Do NOT under any circumstances email or upload via attachments, any PHI data.
 
+---
 
-**Violating Datica policies, federal regulations, and state laws and regulations can lead to disciplinary action – up to and including termination, personal fines, civil and criminal penalties and suspension of professional licenses.**
+Lesson Scenario:
 
-**You are responsible for understanding this information and any additional information necessary to comply with all laws and policies that affect your job.**
+Can you put PHI into email?
+- <input type="checkbox"> `Yes`
+- <input type="checkbox"> `No`
 
-If you have questions about what you must do, talk to us.
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>There are add ons to enable sharing of PHI in email but these must be in place and approved before putting any PHI into email.</p></blockquote>
+</div>
 

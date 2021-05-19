@@ -1,5 +1,5 @@
 Title:
-Lesson 12 | HIPAA Enforcement
+Lesson 13 | HIPAA Enforcement
 ---
 
 Lesson Notes: How is HIPAA enforced and what are the penalties?
