@@ -1,29 +1,52 @@
-# What Does It Mean For You
+
+Title:
+Lesson 15 | What does it mean for you?
+---
+
+Lesson Notes: How to translate this training to your day to day work.
+:dart: It’s imperative to understand the high level of what you can and can’t do with PHI.
+
+---
+
+Lesson Content:
 
 You are expected to be able to:
 1. Recognize PHI that requires protection,
 2. Determine when it is permissible to access, use or disclose PHI, and
 3. Reduce the risk of impermissible access to, use or disclosure of PHI.
 
+Only use or disclose PHI if your job allows you access and that access is required for your job. 
 
-##When it is permissible to access or use PHI?
+PHI can only be used or shared in the following explicit scenarios.
+- Health care treatment. 
+- Health care or health plan payment.
+- Health care or health plan operations.
+
+---
+
+External resources:
+
+You are expected to be able to:
+1. Recognize PHI that requires protection,
+2. Determine when it is permissible to access, use or disclose PHI, and
+3. Reduce the risk of impermissible access to, use or disclosure of PHI.
+
+**When it is permissible to access or use PHI?**
 Only access, use or disclose PHI if your job allows you access and that access is required for your job. In our case, this is rarely, if ever needed. The general approach should be that if a client sends you any such information without an explicit agreement in place, then delete it immediately without opening.
 
 If for some reason, while providing support to a customer, you are able to view such information, do not copy, download, screenshot or retain access to any such data and report this immediately to your manager or our Chief Security Officer.
 
-##Minimum necessary PHI
+**Minimum necessary PHI**
 The intention at every step should always be:
 - To use or disclose/release only the minimum necessary to accomplish the intended purposes of the use, disclosure, or request.
 - Requests from customer employees:
-    - Identify each workforce member who needs to access PHI.
-    - Limit the PHI provided on a “need-to-know” basis.
+	- Identify each workforce member who needs to access PHI.
+	- Limit the PHI provided on a “need-to-know” basis.
 - Requests from Datica or any vendor doing business with customers who have PHI data:
-    - Given the business we are in, we should not have to request access to any PHI data
-    - If for some specific purpose, PHI data is requested, then you should limit the PHI provided to what is needed to accomplish the purpose for which the request was made and no more.
+	- Given the business we are in, we should not have to request access to any PHI data
+	- If for some specific purpose, PHI data is requested, then you should limit the PHI provided to what is needed to accomplish the purpose for which the request was made and no more.
 
-
-
-##What Uses or Disclosures of PHI Are Permitted by Law?
+**What Uses or Disclosures of PHI Are Permitted by Law?**
 This following section is for informational purposes only. As a general policy (there might be exceptions as we continue to grow and evolve in services provided in which case, you will be explicitly informed), you, as an employee of Datica do not need access to PHI.
 
 HIPAA allows covered entities (CE) to create, receive, access, use, or disclose PHI without patient authorization when the workforce member’s job duties involve certain activities. These activities include, but are not limited to:
@@ -36,5 +59,23 @@ There are other uses and disclosures where patient authorization is not required
 - Appointment reminders – PHI may be used to contact members and patients about appointments for health care and treatment. In a Datica context, our customers might use our Messaging services to communicate this kind of information)
 - Business Associates – PHI may be used by contracted business associates to perform certain functions on a client's behalf. Business associates must sign a business associate agreement and agree to safeguard PHI. In a Datica context, we enter into BAAs with all of our clients as we provide infrastructural services to them. However, we have put guidelines and technology in place to minimize, restrict and in some cases, eliminate access to PHI. As a contractor, we may not copy, use, or disclose PHI for any purpose other than specifically allowed in our Business Associate contract. If you inadvertently access or disclose PHI in ways not allowed in your contract, the law requires you to immediately report the disclosure to your supervisor or contract manager, and your company to report the breach to our client.
 
-
 **If you are not sure about whether or not you can use or disclose PHI, check with your manager or the Chief Security Officer.**
+
+---
+
+Lesson Scenario:
+
+What is NOT a permissible use of PHI?
+
+- <input type="checkbox"> `Check family member records`
+- <input type="checkbox"> `Providing care`
+- <input type="checkbox"> `Paying for care`
+- <input type="checkbox"> `Healthcare operations`
+
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>You cannot disclose PHI to family members without explicit consent.</p></blockquote>
+</div>
+
+
+
