@@ -51,6 +51,8 @@ At Datica we know that subcontractors, as defined by HIPAA, have existed for a l
 
 This is a very exciting and major shift for health tech. HIPAA has finally acknowledged subcontractors and the role they play in creating, processing, and transmitting PHI. That’s important for health tech to build smart, scalable, and interoperable tools. As a developer in healthcare, if you’re considering acting as a business associate, or selling services to a covered entity, you need to understand if you fit into a certain entity category as defined by HIPAA.
 
+The Omnibus Rule also defined a PHR (Personal Health Record) vendor, offering a PHR through a covered entity, as a business associate.
+
 ---
 
 Lesson Scenario:
