@@ -1,4 +1,22 @@
 
+Title:
+Lesson 9 | Administrative Simplification
+---
+
+Lesson Notes: What is administrative simplification under HIPAA?
+:dart: The intent of administrative simplification is to make data exchange easier.
+:dart: The rules define a set of data exchange coding standards.
+
+---
+
+Lesson Content:
+
+This area of HIPAA relates to the accepted coding for data exchanged in healthcare. The transactions this applies to are financial-related (claims, eligibility, enrollment, etc). As the name implies, the intent is to make it administratively easier to exchange data by not having to keep track of an endless number of code sets. The common code sets range from X12 or NCPDP (pharmacy-related) and include DRG, ICD, CPT, NDC, SNOMED-CT, and LOINC amongst others.
+
+---
+
+External resources:
+
 This area of HIPAA relates to the accepted coding for data exchanged in healthcare. The transactions this applies to are financial-related (claims, eligibility, enrollment, etc). As the name implies, the intent is to make it administratively easier to exchange data by not having to keep track of an endless number of code sets. The common code sets range from X12 or NCPDP (pharmacy-related) and include DRG, ICD, CPT, NDC, SNOMED-CT, and LOINC amongst others.
 
 Here's a quick overview of these code sets and their intended function.
@@ -13,6 +31,24 @@ They are all linked to the appropriate browsers where possible so that you can g
 * RxNORM - RxNorm provides normalized names for clinical drugs and links its names to many of the drug vocabularies commonly used in pharmacy management and drug interaction software, including those of First Databank, Micromedex, MediSpan, Gold Standard, and Multum. By providing links between these vocabularies, RxNorm can mediate messages between systems not using the same software and vocabulary. [Website][17], [Browser][18]
 * HL7 - Health Language 7. This is more of a messaging and interoperability oriented standard and organization. It is the most common standard set for exchanging data between clinical systems. There are multiple HL7 message standards. However, HL7 has had to evolve to include codesets to enable this exchange. [Website][19], Browser - none, Download - you must be a paid member to access and use it.
 * Other codesets - There are others of course. Often there are specific codesets which are mandated for use in a particular context. For example, for immunizations, interoperability and Meaningful Use require the use of the CVX codeset which is put out by the CDC. These are all accessible at via the following links. [Website][20], [Browser][21]
+
+---
+
+Lesson Scenario:
+
+What defines the format of electronic transfer of information between providers and payers to carry out financial activities?
+
+- <input type="checkbox"> `HIPAA`
+- <input type="checkbox"> `Privacy`
+- <input type="checkbox"> `EDI`
+- <input type="checkbox"> `Security`
+
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>EDI standards have been defined for electronic data exchange to exchange data between providers and payers. Specific EDI formats are EDI 835, EDI 837 etc.</p></blockquote>
+</div>
+
+
 
 [1]:	http://www.ihtsdo.org/
 [2]:	http://www.ihtsdo.org/snomed-ct/snomed-ct0/
