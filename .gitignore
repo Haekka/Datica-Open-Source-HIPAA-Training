@@ -5,6 +5,9 @@
 .AppleDouble
 .LSOverride
 
+# Other
+.Ulysses-Group.plist
+
 # Icon must end with two \r
 Icon
 

@@ -1,37 +1,17 @@
 # Haekka's Fork of Datica Open Source HIPAA Training
 
-  - Lesson 1 | Introduction
-  - Lesson 2 | HIPAA Basics
-  - Lesson 3 | Why All The Fuss About HIPAA
-  - Lesson 4 | Organization of This Training
-  - Lesson 5 | HIPAA Entities
-  - Lesson 6 | Covered Entities
-  - Lesson 7 | Business Associates
-  - Lesson 8 | Subcontractors
-  - Lesson 9 | Sections of HIPAA
-  - Lesson 10 | Privacy Rule
-  - Lesson 11 | Security Rule
-  - Lesson 12 | Administrative Simplification
-  - Lesson 13 | HITECH Omnibus
-  - Lesson 14 | Enforcement
-  - Lesson 15 | All About PHI
-  - Lesson 16 | Elements of PII
-  - Lesson 17 | Deidentify
-  - Lesson 18 | What Does it Mean For You
-  - Lesson 19 | HIPAA Breaches
-  - Lesson 20 | Definitions of Breach
-  - Lesson 21 | Notifications
-  - Lesson 22 | Expectations vs Reality
-  - Lesson 23 | Penalties
-  - Lesson 24 | Breach Policy
-  - Lesson 25 | Preventing Breaches
-  - Lesson 26 | Business Associate Agreements
-  - Lesson 27 | Your HIPAA Responsibilities
-  - Lesson 28 | Key Contracts and Roles
-  - Lesson 29 | System Access
-  - Lesson 30 | Physical Access
-  - Lesson 31 | Incident Management
-  - Lesson 32 | Downloading PHI Data Locally
-  - Lesson 33 | Sanctions
-  - Lesson 34 | Further Reading
-  - Lesson 35 | HIPAA Rules
+- Lesson 1 | Introduction
+- Lesson 2 | HIPAA Basics
+- Lesson 3 | Why All The Fuss About HIPAA
+- Lesson 4 | HIPAA Entities
+- Lesson 5 | Sections of HIPAA
+- Lesson 6 | Privacy Rule
+- Lesson 7 | All About PHI
+- Lesson 8 | Security Rule
+- Lesson 9 | Administrative Simplification
+- Lesson 10 | HITECH Omnibus
+- Lesson 11 | All About Breaches
+- Lesson 12 | Preventing Breaches
+- Lesson 13 | HIPAA Enforcement
+- Lesson 14 | Business Associate Agreements
+- Lesson 15 | What Does it Mean For You
