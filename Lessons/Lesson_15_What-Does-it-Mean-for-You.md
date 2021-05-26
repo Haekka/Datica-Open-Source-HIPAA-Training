@@ -4,7 +4,7 @@ Lesson 15 | What does it mean for you?
 ---
 
 Lesson Notes: How to translate this training to your day to day work.
-:dart: It’s imperative to understand the high level of what you can and can’t do with PHI.
+- :dart: It’s imperative to understand the high level of what you can and can’t do with PHI.
 
 ---
 

@@ -4,8 +4,8 @@ Lesson 2 | HIPAA Basics
 ---
 
 Lesson Notes: Start with a 30,000 foot view of HIPAA.
-:dart: HIPAA = Health Information Portability and Accountability Act
-:dart: HIPAA boils down to 1) protect protected health information and 2) enforce standard for healthcare data exchange.
+- :dart: HIPAA = Health Information Portability and Accountability Act
+- :dart: HIPAA boils down to 1) protect protected health information and 2) enforce standard for healthcare data exchange.
 
 ---
 

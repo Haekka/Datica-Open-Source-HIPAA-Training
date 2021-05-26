@@ -4,8 +4,8 @@ Lesson 9 | Administrative Simplification
 ---
 
 Lesson Notes: What is administrative simplification under HIPAA?
-:dart: The intent of administrative simplification is to make data exchange easier.
-:dart: The rules define a set of data exchange coding standards.
+- :dart: The intent of administrative simplification is to make data exchange easier.
+- :dart: The rules define a set of data exchange coding standards.
 
 ---
 

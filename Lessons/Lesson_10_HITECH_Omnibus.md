@@ -4,7 +4,7 @@ Lesson 10 | HITECH Omnibus
 ---
 
 Lesson Notes: What did the 2013 HIPAA Omnibus Rule change?
-:dart: The Omnibus rule clarified definitions around breaches, updated penalties, and clarified entity types.
+- :dart: The Omnibus rule clarified definitions around breaches, updated penalties, and clarified entity types.
 
 ---
 

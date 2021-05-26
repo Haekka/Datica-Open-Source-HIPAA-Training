@@ -4,8 +4,8 @@ Lesson 5 | Privacy Rule
 ---
 
 Lesson Notes: What is the HIPAA Privacy Rule?
-:dart: The HIPAA [Privacy Rule][1] sets many of the terms used for HIPAA, outlines the types of entities that need to comply with HIPAA, defines appropriate uses or disclosures of health information, and also covers penalties for HIPAA violations.
-:dart: The Privacy Rule is important to understand, despite the fact that it doesn't include specific technical requirements or polices, as the Privacy Rule gives an understanding of the types of data, entities, and uses of data that HIPAA is concerned about.
+- :dart: The HIPAA [Privacy Rule][1] sets many of the terms used for HIPAA, outlines the types of entities that need to comply with HIPAA, defines appropriate uses or disclosures of health information, and also covers penalties for HIPAA violations.
+- :dart: The Privacy Rule is important to understand, despite the fact that it doesn't include specific technical requirements or polices, as the Privacy Rule gives an understanding of the types of data, entities, and uses of data that HIPAA is concerned about.
 
 ---
 

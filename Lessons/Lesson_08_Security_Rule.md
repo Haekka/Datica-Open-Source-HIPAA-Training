@@ -3,8 +3,8 @@ Lesson 8 | Security Rule
 ---
 
 Lesson Notes: What is the HIPAA Security Rule?
-:dart: The HIPAA Security Rule operationalizes many of the standards set out in the Privacy Rule. 
-:dart: The three categories of standards in the Security Rule are 1) Administrative, 2) Physical, and 3) Technical.
+- :dart: The HIPAA Security Rule operationalizes many of the standards set out in the Privacy Rule. 
+- :dart: The three categories of standards in the Security Rule are 1) Administrative, 2) Physical, and 3) Technical.
 
 ---
 

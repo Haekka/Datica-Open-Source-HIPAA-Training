@@ -4,7 +4,7 @@ Lesson 14 | Business Associate Agreements (BAAs)
 ---
 
 Lesson Notes: Business associate agreements codify relationships between entities under HIPAA.
-:dart: BAAs govern the relationship and responsibility between covered entities and business associates.
+- :dart: BAAs govern the relationship and responsibility between covered entities and business associates.
 
 ---
 

@@ -4,8 +4,8 @@ Lesson 7 | All about PHI
 ---
 
 Lesson Notes: The what and how of PHI?
-:dart: PHI is Protected Health Information. ePHI is just electronic PHI.
-:dart: Protected health information (PHI) is any information about health status, provision of health care, or payment for health care that can be linked to a specific individual.
+- :dart: PHI is Protected Health Information. ePHI is just electronic PHI.
+- :dart: Protected health information (PHI) is any information about health status, provision of health care, or payment for health care that can be linked to a specific individual.
 
 ---
 

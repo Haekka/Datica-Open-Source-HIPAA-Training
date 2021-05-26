@@ -3,8 +3,8 @@ Lesson 11 | All about breaches
 ---
 
 Lesson Notes: Everything you wanted to know about data breaches?
-:dart: What you do in the case of a breach can determine the penalties.
-:dart: It’s important to understand your role in a breach and to know how to identify a breach.
+- :dart: What you do in the case of a breach can determine the penalties.
+- :dart: It’s important to understand your role in a breach and to know how to identify a breach.
 
 ---
 

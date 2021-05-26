@@ -3,8 +3,8 @@ Lesson 13 | HIPAA Enforcement
 ---
 
 Lesson Notes: How is HIPAA enforced and what are the penalties?
-:dart: The OCR is responsible for HIPAA enforcement.
-:dart: The majority of violations stem from not following aspects of the Security Rule.
+- :dart: The OCR is responsible for HIPAA enforcement.
+- :dart: The majority of violations stem from not following aspects of the Security Rule.
 
 ---
 

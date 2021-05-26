@@ -4,8 +4,8 @@ Lesson 12 | Preventing Breaches
 ---
 
 Lesson Notes: This lesson contains tips to help you protect PHI
-:dart: Preventing breaches is something we need to do every day.
-:dart: The tips in this lesson can be followed to help minimize the risk of a data breach at your company.
+- :dart: Preventing breaches is something we need to do every day.
+- :dart: The tips in this lesson can be followed to help minimize the risk of a data breach at your company.
 
 ---
 

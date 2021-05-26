@@ -3,8 +3,8 @@ Lesson 4 | HIPAA Entities
 ---
 
 Lesson Notes: What are the different types of entities under HIPAA?
-:dart: HIPAA defines two types of entities - covered entities and business associates.
-:dart: Subcontractors are business associates of business associates
+- :dart: HIPAA defines two types of entities - covered entities and business associates.
+- :dart: Subcontractors are business associates of business associates
 
 ---
 

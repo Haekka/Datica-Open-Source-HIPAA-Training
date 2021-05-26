@@ -3,9 +3,9 @@ Lesson 3 | Why all the fuss about HIPAA
 ---
 
 Lesson Notes: Why you should care about HIPAA?
-:dart: Protecting data is the right thing to do
-:dart: The cloud changes the paradigm of privacy and security
-:dart: There are penalties for not following HIPAA
+- :dart: Protecting data is the right thing to do
+- :dart: The cloud changes the paradigm of privacy and security
+- :dart: There are penalties for not following HIPAA
 
 ---
 

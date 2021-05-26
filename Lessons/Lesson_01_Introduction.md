@@ -4,8 +4,8 @@ Lesson 1| Introduction to HIPAA Training
 ---
 
 Lesson Notes:
-:dart: Intended Audience: All workforce members
-:dart: Intended Frequency: Upon employee onboarding and annually
+- :dart: Intended Audience: All workforce members
+- :dart: Intended Frequency: Upon employee onboarding and annually
 
 ---
 

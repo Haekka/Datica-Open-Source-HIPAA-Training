@@ -3,7 +3,7 @@ Lesson 5 | Sections of HIPAA
 ---
 
 Lesson Notes: What are the section of HIPAA?
-:dart: Broadly, HIPAA contains 3 sections - 1) Privacy Rule, 2) Security Rule, and 3) Administrative Simplification.
+- :dart: Broadly, HIPAA contains 3 sections - 1) Privacy Rule, 2) Security Rule, and 3) Administrative Simplification.
 
 ---
 
