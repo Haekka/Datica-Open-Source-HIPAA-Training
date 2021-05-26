@@ -40,11 +40,9 @@ The spirit of HIPAA is simple -
 Lesson Scenario:
 What does PHI stand for?:
 
-- <input type="checkbox"> `Personal Health Information`
-- <input type="checkbox"> `Private Healthcare Information`
-- <input type="checkbox"> `Protected Health Information`
-- <input type="checkbox"> `Public Health Information`
+- `Personal Health Information`
+- `Private Healthcare Information`
+- `Protected Health Information`
+- `Public Health Information`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>PHI is a specific HIPAA term that means Protected Health Information. PHI can be defined as any information that can lead to the identity of an individual or the contents of the information can be used to make a reasonable assumption as to the identity of the individual.</p></blockquote>
+Answer: PHI is a specific HIPAA term that means Protected Health Information. PHI can be defined as any information that can lead to the identity of an individual or the contents of the information can be used to make a reasonable assumption as to the identity of the individual.

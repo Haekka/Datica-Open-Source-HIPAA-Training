@@ -58,15 +58,12 @@ The Omnibus Rule also defined a PHR (Personal Health Record) vendor, offering a 
 Lesson Scenario:
 If you work for a technology company that sells cloud software to health systems, what type of entity are you?
 
-- <input type="checkbox"> `Covered entity`
-- <input type="checkbox"> `Subcontractor`
-- <input type="checkbox"> `Business Associate`
-- <input type="checkbox"> `None of the above`
+- `Covered entity`
+- `Subcontractor`
+- `Business Associate`
+- `None of the above`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>You work for a business associate. Business associates provide technology or services to covered entities (health systems).</p></blockquote>
-</div>
+Answer: You work for a business associate. Business associates provide technology or services to covered entities (health systems).
 
 [1]:	http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/index.html
 [2]:	http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/index.html

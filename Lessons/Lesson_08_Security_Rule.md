@@ -62,13 +62,10 @@ Lesson Scenario:
 
 You are responsible for your username/password when accessing the computer system as well as all information accessed under this login.
 
-- <input type="checkbox"> `True`
-- <input type="checkbox"> `False`
+- `True`
+- `False`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>If you suspect that someone knows your password or has been compromised in any way, change your password immediately and notify your manager.</p></blockquote>
-</div>
+Answer: If you suspect that someone knows your password or has been compromised in any way, change your password immediately and notify your manager.
 
 
 

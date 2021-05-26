@@ -54,20 +54,14 @@ Lesson Scenario:
 
 What is the maximum time to report a breach under HIPAA?
 
-- <input type="checkbox"> 24 hours
-- <input type="checkbox"> 72 hours
-- <input type="checkbox"> 1 week
-- <input type="checkbox"> 1 month
-- <input type="checkbox"> 60 days
+- `24 hours`
+- `72 hours`
+- `1 week`
+- `1 month`
+- `60 days`
 
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>60 days is the maximum time allowed under HIPAA for reporting a breach.</p></blockquote>
-</div>
-
-
-
+Answer: 60 days is the maximum time allowed under HIPAA for reporting a breach.
 
 
 [1]:	https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf

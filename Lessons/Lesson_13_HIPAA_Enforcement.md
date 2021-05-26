@@ -59,15 +59,12 @@ Lesson Scenario:
 
 What part of the HIPAA rules are most frequently cited in violations?
 
-- <input type="checkbox"> `Administrative simplification`
-- <input type="checkbox"> `Security Rule`
-- <input type="checkbox"> `Privacy Rule`
-- <input type="checkbox"> `Omnibus Rule`
+- `Administrative simplification`
+- `Security Rule`
+- `Privacy Rule`
+- `Omnibus Rule`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>The Security Rule accounts for 60% of violations, followed by the Privacy Rule and Breach Notification Rule.</p></blockquote>
-</div>
+Answer: The Security Rule accounts for 60% of violations, followed by the Privacy Rule and Breach Notification Rule.
 
 
 

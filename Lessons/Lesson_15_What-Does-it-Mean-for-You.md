@@ -67,15 +67,9 @@ Lesson Scenario:
 
 What is NOT a permissible use of PHI?
 
-- <input type="checkbox"> `Check family member records`
-- <input type="checkbox"> `Providing care`
-- <input type="checkbox"> `Paying for care`
-- <input type="checkbox"> `Healthcare operations`
+- `Check family member records`
+- `Providing care`
+- `Paying for care`
+- `Healthcare operations`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>You cannot disclose PHI to family members without explicit consent.</p></blockquote>
-</div>
-
-
-
+Answer: You cannot disclose PHI to family members without explicit consent.

@@ -38,15 +38,12 @@ Lesson Scenario:
 
 What defines the format of electronic transfer of information between providers and payers to carry out financial activities?
 
-- <input type="checkbox"> `HIPAA`
-- <input type="checkbox"> `Privacy`
-- <input type="checkbox"> `EDI`
-- <input type="checkbox"> `Security`
+- `HIPAA`
+- `Privacy`
+- `EDI`
+- `Security`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>EDI standards have been defined for electronic data exchange to exchange data between providers and payers. Specific EDI formats are EDI 835, EDI 837 etc.</p></blockquote>
-</div>
+Answer: EDI standards have been defined for electronic data exchange to exchange data between providers and payers. Specific EDI formats are EDI 835, EDI 837 etc.
 
 
 

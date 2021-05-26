@@ -42,15 +42,12 @@ Lesson Scenario:
 
 What is true of business associate agreements (BAAs)?
 
-- <input type="checkbox"> They are standardized
-- <input type="checkbox"> Cloud providers do not sign them
-- <input type="checkbox"> They are executed between business associates and covered entities
-- <input type="checkbox"> The are unenforceable
+- `They are standardized`
+- `Cloud providers do not sign them`
+- `They are executed between business associates and covered entities`
+- `The are unenforceable`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>BAAs are executed between business associates and covered entities.</p></blockquote>
-</div>
+Answer: BAAs are executed between business associates and covered entities.
 
 
 

@@ -103,16 +103,13 @@ Lesson Scenario:
 
 What are examples of protected health information that might be connected to an individual?
 
-- <input type="checkbox"> `Telephone number`
-- <input type="checkbox"> `Address`
-- <input type="checkbox"> `Zipcode`
-- <input type="checkbox"> `Date of Birth`
-- <input type="checkbox"> `Gender`
+- `Telephone number`
+- `Address`
+- `Zipcode`
+- `Date of Birth`
+- `Gender`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>Zipcodes (except for a small set) cannot be used to uniquely identify an individual. Neither can gender.</p></blockquote>
-</div>
+Answer: Zipcodes (except for a small set) cannot be used to uniquely identify an individual. Neither can gender.
 
 
 

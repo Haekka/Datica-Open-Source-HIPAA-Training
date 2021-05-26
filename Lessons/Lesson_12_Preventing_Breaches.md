@@ -68,11 +68,7 @@ Do NOT under any circumstances email or upload via attachments, any PHI data.
 Lesson Scenario:
 
 Can you put PHI into email?
-- <input type="checkbox"> `Yes`
-- <input type="checkbox"> `No`
+- `Yes`
+- `No`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>There are add ons to enable sharing of PHI in email but these must be in place and approved before putting any PHI into email.</p></blockquote>
-</div>
-
+Answer: There are add ons to enable sharing of PHI in email but these must be in place and approved before putting any PHI into email.

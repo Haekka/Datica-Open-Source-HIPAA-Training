@@ -36,15 +36,12 @@ Lesson Scenario:
 
 Why is the Privacy Rule important?
 
-- <input type="checkbox"> `Ensures that my tax bill is not seen by anyone`
-- <input type="checkbox"> `Sets procedures for how a privacy fence needs to be installed`
-- <input type="checkbox"> `Gives individuals rights to control the use and disclosure of PHI`
-- <input type="checkbox"> `Gives individuals rights to march at the capital about their privacy rights`
+- `Ensures that my tax bill is not seen by anyone`
+- `Sets procedures for how a privacy fence needs to be installed`
+- `Gives individuals rights to control the use and disclosure of PHI`
+- `Gives individuals rights to march at the capital about their privacy rights`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>The privacy rule gives patients the right to control how their information is used and disclosed.</p></blockquote>
-</div>
+Answer: The privacy rule gives patients the right to control how their information is used and disclosed.
 
 
 

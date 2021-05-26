@@ -40,17 +40,11 @@ Lesson Scenario:
 
 What changes did the HIPAA Omnibus Rule make to HIPAA?
 
-- <input type="checkbox"> `More leniant penalties`
-- <input type="checkbox"> `Defined "subcontractor"`
-- <input type="checkbox"> `Outlawed the use of anything "cloud"`
-- <input type="checkbox"> `Made EHR data harder to get`
+- `More leniant penalties`
+- `Defined "subcontractor"`
+- `Outlawed the use of anything "cloud"`
+- `Made EHR data harder to get`
 
-<div class="reveal-answer">
-	<button class="button">Reveal Answer</button>
-	<blockquote><p>The Ombinus Rule clarified entity types by defining "subcontractors", which are essentially business associates of business associates.</p></blockquote>
-</div>
-
-
-
+Answer: The Ombinus Rule clarified entity types by defining "subcontractors", which are essentially business associates of business associates.
 
 [1]:	http://www.hhs.gov/news/press/2013pres/01/20130117b.html
