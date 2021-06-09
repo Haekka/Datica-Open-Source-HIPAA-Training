@@ -1,6 +1,6 @@
 
 Title:
-Lesson 5 | Privacy Rule
+Lesson 6 | Privacy Rule
 ---
 
 Lesson Notes: What is the HIPAA Privacy Rule?
